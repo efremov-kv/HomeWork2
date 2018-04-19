@@ -40,7 +40,7 @@ public class HomeWork2 {
                 System.out.println(a / b);
                 break;
         }
-        
+
         System.out.println("THE END");
     }
 }
